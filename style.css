@@ -1,0 +1,14 @@
+#inp{
+    width: 20px;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+
+#reset{
+    margin-top: 11px;
+}
